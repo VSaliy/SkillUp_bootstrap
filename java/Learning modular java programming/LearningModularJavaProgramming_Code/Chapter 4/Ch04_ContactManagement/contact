@@ -1,0 +1,9 @@
+create database contactDB;
+USE contactDB;
+create table Contact_CORE(firstname varchar(20) NOT NULL,
+                          lastname varchar(20)NOT NULL,
+                          gender int NOT NULL,
+                          address varchar(100)NOT NULL,
+                          email varchar(20)NOT NULL,
+                          phone_number varchar(20)NOT NULL,
+                          PRIMARY KEY(email));

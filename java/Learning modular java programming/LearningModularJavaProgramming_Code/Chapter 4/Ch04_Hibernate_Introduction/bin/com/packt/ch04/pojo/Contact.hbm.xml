@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Sep 5, 2012 3:07:30 PM by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+	<class name="com.packt.ch04.pojo.Contact" table="Contact_hib">
+		<id name="email" type="string">
+			<column name="email" />
+			<generator class="assigned" />
+		</id>
+
+		<property name="firstName" type="java.lang.String">
+			<column name="FIRST_NAME" />
+		</property>
+
+		<property name="lastName" type="java.lang.String">
+			<column name="LAST_NAME" />
+		</property>
+
+		<property name="gender" type="int">
+			<column name="GENDER" />
+		</property>
+		<property name="address" type="java.lang.String">
+			<column name="ADDRESS" />
+		</property>
+
+		<property name="phone_number" type="java.lang.String">
+			<column name="PHONENUMBER" />
+		</property>
+		
+	</class>
+</hibernate-mapping>

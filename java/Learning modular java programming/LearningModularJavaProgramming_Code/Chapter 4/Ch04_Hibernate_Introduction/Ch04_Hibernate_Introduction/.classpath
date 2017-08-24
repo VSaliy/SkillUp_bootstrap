@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/asm.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/jta.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="lib" path="E:/packetPub/Ch04_Hibernate_Introduction/lib/cglib-2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
