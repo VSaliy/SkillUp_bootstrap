@@ -1,0 +1,22 @@
+Visual CertExam Suite is a test engine designed specifically for certification exam preparation. It allows you to create, edit and take practice tests in an environment very similar to a real exam. Visual CertExam Suite includes two applications:
+
+* Visual CertExam Designer allows you to create and edit your own professional practice exams. It is designed, first of all, for authors involved in practice exam development.
+* Visual CertExam Manager is designed for taking exams created with Visual CertExam Designer. The application interface provides the most realistic simulation of the real certification exam.
+
+Features
+
+* The most realistic certification exam simulation.
+* You can work with most of the question types used in certification exams (Multiple Choice, Fill in the Blank, Select and Place, Point and Shoot, Hot Area, Create a Tree, Build List and Reorder, Drop and Connect).
+* Ability to create case study based exams.
+* The question preview feature allows the author see exactly how a question will appear during an examination.
+* Supports question text formatting, including bullets, numbering and alignment.
+* All exam data (including images) is stored in a single file that simplifies copying and distribution of created exams.
+* Printing and print preview of exam files.
+* Supports the most popular image formats: GIF and JPEG.
+
+* The Import Wizard lets automatically create exam files from existing text files or RTF-documents with questions.
+* Ability to work in a local network using file sharing.
+* You can group questions into sections based on exam topics.
+* Each exam file can contain multiple instances of an exam (Exam A, Exam B, Exam C and so on).
+* You can set a password for opening an exam file in Visual CertExam Designer to prevent unauthorized copying, editing and printing of the exam data.
+*You can restrict the ability to start an exam by setting a password.
